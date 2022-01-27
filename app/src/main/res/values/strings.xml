@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewModelSpace</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="fav_items">Favorite Items</string>
+    <string name="usrname_size_restriction"><![CDATA[Size should be >6]]></string>
+    <string name="include_num_restriction">Should include numbers</string>
+    <string name="correct">sworia</string>
+</resources>
